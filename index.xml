@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas McKeon</title>
+    <link>https://t-mckeon.github.io/Portfolio/</link>
+    <description>Recent content on Thomas McKeon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://t-mckeon.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home Plate Umpire Bias in the MLB</title>
+      <link>https://t-mckeon.github.io/Portfolio/2022/05/umpire-bias-in-the-mlb/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://t-mckeon.github.io/Portfolio/2022/05/umpire-bias-in-the-mlb/</guid>
+      <description>&lt;p&gt;Investigation into the true strike-zone of MLB home plate umpires, and the consistent biases prevalent in their strike calling.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Performance Impact of Wage Inequality</title>
+      <link>https://t-mckeon.github.io/Portfolio/2022/05/performance-impact-of-wage-inequality/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://t-mckeon.github.io/Portfolio/2022/05/performance-impact-of-wage-inequality/</guid>
+      <description>&lt;p&gt;Measuring the impact of wage inequality within between players in soccer clubs on the team&amp;rsquo;s domestic league performance.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Soccer Analytics Visualzations</title>
+      <link>https://t-mckeon.github.io/Portfolio/2022/05/soccer-analytics-visualzations/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://t-mckeon.github.io/Portfolio/2022/05/soccer-analytics-visualzations/</guid>
+      <description>&lt;p&gt;Some of my more work-intensive soccer analytics visualizations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Soccer Analytics Web Scrapers</title>
+      <link>https://t-mckeon.github.io/Portfolio/2022/05/soccer-analytics-web-scrapers/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://t-mckeon.github.io/Portfolio/2022/05/soccer-analytics-web-scrapers/</guid>
+      <description>&lt;p&gt;Web Scrapers I&amp;rsquo;ve set up to collect Soccer data for projects and visualizations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my Project Portfolio</title>
+      <link>https://t-mckeon.github.io/Portfolio/1/01/welcome-to-my-project-portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://t-mckeon.github.io/Portfolio/1/01/welcome-to-my-project-portfolio/</guid>
+      <description>&lt;p&gt;A small site holding the personal projects I&amp;rsquo;ve done in my spare time. Most revolve around my interest in Soccer and Baseball Analytics.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
